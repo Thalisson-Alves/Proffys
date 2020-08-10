@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Proffy" title="#NextLevelWeek2" src="./web/src/assets/images/landing.svg" />
+  <img alt="Proffy" title="#NextLevelWeek2" src="./.github/landing.svg" />
 </h1>
 
 # Table of content
