@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Proffy" title="#NextLevelWeek2" src="./.github/logo.svg" />
+  <img alt="Proffy" title="#NextLevelWeek2" src="./web/src/assets/images/landing.svg" />
 </h1>
 
 # Table of content
@@ -56,6 +56,9 @@
   
   # Install dependecies
   $ npm install
+
+  # Create sqlite database
+  $ npm run knex:migrate
   
   # Run API
   $ npm start
