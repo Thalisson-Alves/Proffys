@@ -97,7 +97,7 @@
 # Issues
 Fell free to send a issue if you found a problem. If you already found a solution to the problem, send me a pull request, I would appreciate it.
 
-# Features
+<!-- # Features
 Some features that I'm working on
 - [ ] Extended layout
   - [ ] Login
@@ -114,4 +114,4 @@ Some features that I'm working on
 - [ ] Displaying class schedule
 - [ ] Save favorite Proffys
 - [ ] Logout
-- [ ] Deploy
+- [ ] Deploy -->
